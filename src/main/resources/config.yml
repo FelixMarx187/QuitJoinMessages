@@ -1,3 +1,5 @@
 messages:
   join: "Welcome {player} to the server!"
   quit: "Goodbye {player}, see you next time!"
+  # To set Color or make ist Bold use / §<ColorCode>
+  # You can get the Color Codes here https://minecraft.tools/de/color-code.php
