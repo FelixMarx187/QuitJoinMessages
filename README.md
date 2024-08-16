@@ -33,5 +33,3 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 ## License
 
 Feel free to use or to edit this Plugin!
-
----
