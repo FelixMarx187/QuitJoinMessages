@@ -1,0 +1,4 @@
+name: QuitJoinMessages
+version: '${project.version}'
+main: de.felix.quitjoinmessages.QuitJoinMessages
+api-version: '1.21'

@@ -1,0 +1,3 @@
+messages:
+  join: "Welcome {player} to the server!"
+  quit: "Goodbye {player}, see you next time!"
