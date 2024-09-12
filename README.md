@@ -28,7 +28,7 @@ messages:
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest Version the QuitJoinMessages Plugin for your 1.21 Minecraft Server
+You can [download]([https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0](https://github.com/FelixMarx187/QuitJoinMessages/releases/tag/1.21)) the latest Version the QuitJoinMessages Plugin for your 1.21 Minecraft Server
 
 ## License
 
