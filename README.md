@@ -1,20 +1,22 @@
+# Custom Quit & Join Messages
 
-<h1 align="center">
-  <br>
-  Custom Quit and Join Messages
-  <br>
-</h1>
+A simple and lightweight Minecraft plugin that allows you to fully customize the **join** and **quit** messages of your players.  
+With easy configuration through the `config.yml`, you can personalize your server's atmosphere and style.
 
-<h4 align="center">A minimal Minecraft Plugin for your Minecraft Server</h4>
-<p align="center">
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#license">License</a>
-</p>
+---
 
-## How To Use
+## ✨ Features
+- Set **custom join and quit messages** for players.
+- Use placeholders (e.g., `{player}` for the player’s name).
+- Fully configurable in the `config.yml`.
+- Supports Minecraft color codes and text formatting.
 
-To set up your Custom Quit and Join Messages you need to edit the config.yml file in your plugins folder.
+---
+
+## ⚙️ Configuration
+After installing the plugin and running the server once, a `config.yml` file will be generated inside the `plugins/CustomQuitJoinMessage` folder.  
+Here’s the default configuration:
+
 ```yml
 messages:
   join: "Welcome {player} to the server!"
@@ -23,13 +25,23 @@ messages:
   # You can get the Color Codes here https://minecraft.tools/de/color-code.php
 ```
 
-> **Note**
-> If you have trouble to find your Config.yml file: \testServer\plugins\QuitJoinMessages\config.yml
+---
 
-## Download
+## 📥 Installation
+1. Download the plugin `.jar` file.
+2. Place it into your server’s `plugins` folder.
+3. Restart or reload the server.
+4. Edit the `config.yml` file to your liking.
+5. Save changes and run `/reload` or restart the server.
 
-You can [download](https://github.com/FelixMarx187/QuitJoinMessages/releases/tag/1.21) the latest Version the QuitJoinMessages Plugin for your 1.21 Minecraft Server
+---
 
-## License
+## 📌 Requirements
+- Minecraft server (Spigot, Paper, or a fork). *(only works in the **1.21** at the moment)*
+- Java 8+ depending on your server version.
 
-Feel free to use or to edit this Plugin!
+---
+
+## 🤝 Contributing
+Found a bug or have a feature request?  
+Feel free to open an **issue** or submit a **pull request** on GitHub.
